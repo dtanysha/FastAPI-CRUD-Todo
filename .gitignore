@@ -1,0 +1,13 @@
+# Виртуальное окружение
+venv/
+
+# Кеши Python
+__pycache__/
+*/__pycache__/
+*.pyc
+
+# Локальная база данных
+todo.db
+
+# Кеш pytest
+.pytest_cache/
